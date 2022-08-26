@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="webpage-master:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/webpage_master_war</output-path>
+    <root id="archive" name="webpage-master_war.war">
+      <element id="artifact" artifact-name="webpage-master:war exploded" />
+    </root>
+  </artifact>
+</component>
